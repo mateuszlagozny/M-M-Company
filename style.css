@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+.container {
+    display: block;
+    margin: 40px;
+}
+
+h1,
+h2,
+h3,
+p {
+    color: silver;
+    text-align: center;
+    font-size: 34px;
+}
+
+img {
+    width: 100%;
+}
